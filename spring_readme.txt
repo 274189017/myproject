@@ -1,1 +1,1 @@
-sprint project
+spring project
